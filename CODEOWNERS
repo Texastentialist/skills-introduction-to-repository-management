@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Texastentialist
+/src/backend/database.py      @Texastentialist
+/src/backend/routers/auth.py  @Texastentialist
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Texastentialist
